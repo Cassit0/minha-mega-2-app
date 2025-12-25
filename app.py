@@ -30,6 +30,7 @@ st.markdown("""
         border-radius: 15px;
         margin-bottom: 20px;
         border-left: 5px solid #209869;
+          color: black;
     }
     </style>
     """, unsafe_allow_html=True)

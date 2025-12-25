@@ -39,10 +39,7 @@ if 'historico' not in st.session_state:
     st.session_state.historico = [
         {"concurso": 2810, "data": "21/12/2025", "dezenas": [4, 12, 32, 45, 49, 58]},
         {"concurso": 2809, "data": "18/12/2025", "dezenas": [1, 15, 23, 33, 42, 50]},
-        {"concurso": 2808, "data": "16/12/2025", "dezenas": [10, 22, 35, 44, 51, 60]},
-        {"concurso": 2807, "data": "13/12/2025", "dezenas": [5, 18, 27, 40, 48, 59]},
-        {"concurso": 2806, "data": "11/12/2025", "dezenas": [2, 11, 28, 37, 43, 55]}
-    ]
+        
 
 # --- 3. MOTOR DE FILTRAGEM (REGRAS DO COLAB) ---
 
